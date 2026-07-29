@@ -1,22 +1,20 @@
 # Curiosity
 
-**Curiosity** is the first virtual environment (VE1) developed as part of Elizaveta Siurina's PhD research in Computer Science at the University of Cape Town (UCT).
-
-The broader PhD project, *Emotion Elicitation in Virtual Environments: How Sensory and Narrative Design Shape Curiosity, Anger, and Nurturance*, investigates how immersive virtual environments can elicit complex emotions through sensory and narrative design.
+**Curiosity** is an immersive virtual reality environment developed as part of Elizaveta Siurina's PhD research in Computer Science at the University of Cape Town (UCT).
 
 ## Research focus
 
-This repository focuses specifically on **SEEKING (curiosity)**, one of the core emotional systems described in Jaak Panksepp's Affective Neuroscience Theory.
+The project investigates how sensory and narrative design can elicit **SEEKING (curiosity)** in virtual reality, drawing on Jaak Panksepp's Affective Neuroscience Theory.
 
-The Curiosity environment is designed to investigate how spatial, visual, auditory, and narrative cues can encourage exploration, anticipation, discovery, and information-seeking in VR.
+The environment explores how spatial layout, lighting, colour, sound, story events, and character interaction can encourage exploration, anticipation, discovery, and information-seeking.
 
-Within the wider study, the environment is examined across three conditions:
+Curiosity is evaluated through three versions of the same environment:
 
-- **Sensory-only** - curiosity elicited through audiovisual and spatial design.
-- **Narrative-only** - curiosity elicited through story structure, events, and character interaction.
-- **Combined** - sensory and narrative cues working together.
+- **Sensory-only** - curiosity is elicited through audiovisual and spatial design.
+- **Narrative-only** - curiosity is elicited through story structure, events, and character interaction.
+- **Combined** - sensory and narrative cues work together.
 
-The wider research asks how these modalities shape the intensity and quality of emotional experience and whether their combination increases emotional engagement.
+The research examines how these design approaches shape the intensity and quality of curiosity in VR.
 
 ## Environment structure
 
@@ -35,11 +33,9 @@ Curiosity is structured as a three-act immersive experience:
 
 ## Development
 
-The environment is being prototyped and iteratively refined in Unity using controlled audiovisual and spatial parameters. The resulting design will contribute to a broader framework for emotion-sensitive VR grounded in affective neuroscience.
+The Curiosity environment is being prototyped and iteratively refined in Unity using controlled audiovisual, narrative, and spatial parameters.
 
-## Research context
-
-The wider PhD study compares three affective systems - **SEEKING (curiosity)**, **RAGE (anger)**, and **CARE (nurturance)** - across sensory-only, narrative-only, and combined VR conditions. The Curiosity repository contains the design and development materials for the SEEKING environment.
+This repository contains its design materials, floor plans, documentation, and development files.
 
 ## Status
 
